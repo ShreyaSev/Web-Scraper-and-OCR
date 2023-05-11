@@ -7,7 +7,7 @@ def get_video_duration(video_id):
     """
     Returns the duration of a YouTube video given its video ID.
     """
-    api_key = 'AIzaSyDwwnyJr7tboh0Ofo9rl8v_uRqeizc5OtM'
+    api_key = 'myapikey'
     url = f'https://www.googleapis.com/youtube/v3/videos?id={video_id}&key={api_key}&part=contentDetails'
     response = requests.get(url)
     data = json.loads(response.text)
