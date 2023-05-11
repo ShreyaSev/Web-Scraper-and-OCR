@@ -556,3 +556,131 @@ ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
 1683741828057	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1683741849198	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1683741849616	Marionette	INFO	Stopped listening on port 34263
+1683784081144	geckodriver	INFO	Listening on 127.0.0.1:50403
+1683784081598	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejOjnxT"
+Gtk-Message: 11:18:01.618: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683784082093	Marionette	INFO	Marionette enabled
+1683784082095	Marionette	INFO	Listening on port 34369
+Read port: 34369
+WebDriver BiDi listening on ws://127.0.0.1:58385
+1683784082243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejOjnxT/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58385/devtools/browser/fcb807d7-68c2-4387-8da5-d3d2bf684a13
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1683784179644	Marionette	INFO	Stopped listening on port 34369
+1683784538807	geckodriver	INFO	Listening on 127.0.0.1:49335
+1683784539250	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "32909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexf9Ii7"
+Gtk-Message: 11:25:39.275: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683784539755	Marionette	INFO	Marionette enabled
+1683784539758	Marionette	INFO	Listening on port 35821
+Read port: 35821
+WebDriver BiDi listening on ws://127.0.0.1:32909
+1683784539897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexf9Ii7/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:32909/devtools/browser/8a3deacb-45fc-4a8d-be96-e1099d11ea1e
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 1404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 6635 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 1995 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 7415 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 3914 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 995 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 683: TypeError: this.dataListener is null
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 281 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 1669 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 3023 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 3022 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 1398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 7641 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 3689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 5293 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 1204 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 1890 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683784637944	Marionette	INFO	Stopped listening on port 35821
+JavaScript warning: https://www.google.com/js/th/lnYuOV6CFLlQNBsFrKUp6iqofwcw6ChoCpHRG3e43aU.js line 2 > eval line 1648 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683785217580	geckodriver	INFO	Listening on 127.0.0.1:52151
+1683785217943	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2U1sOr"
+Gtk-Message: 11:36:57.965: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683785218443	Marionette	INFO	Marionette enabled
+1683785218445	Marionette	INFO	Listening on port 33963
+WebDriver BiDi listening on ws://127.0.0.1:45417
+Read port: 33963
+1683785218692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2U1sOr/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:45417/devtools/browser/756198c7-344a-4896-b0d8-a29075f35482
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1683785336548	Marionette	INFO	Stopped listening on port 33963
+1683785413795	geckodriver	INFO	Listening on 127.0.0.1:35393
+1683785414228	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepJYlTQ"
+Gtk-Message: 11:40:14.250: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683785414735	Marionette	INFO	Marionette enabled
+1683785414737	Marionette	INFO	Listening on port 38831
+Read port: 38831
+WebDriver BiDi listening on ws://127.0.0.1:56847
+1683785414872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepJYlTQ/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56847/devtools/browser/9df992d5-7235-400a-aafa-e79b47415a60
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
