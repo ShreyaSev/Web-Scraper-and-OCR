@@ -175,8 +175,6 @@ if __name__ =='__main__':
     except Exception as e:
         print(e)
         sys.exit()
-
-    #print('test')
     
     calculate_course_duration()
 
