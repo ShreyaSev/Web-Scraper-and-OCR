@@ -3,7 +3,7 @@ iit bombay intern assignment
 
 # Web scraping done using Beautiful Soup, requests and Selenium.
 
-##Output:
+## Output:
 ![Output](https://github.com/ShreyaSev/Web-Scraper-and-OCR/blob/main/Screenshot%20from%202023-05-10%2023-34-56.png)
 
 
